@@ -1,0 +1,19 @@
+nav{
+    background: #099085
+}
+.menu{
+    text-align: center;
+    margin: 0
+}
+.menu li{
+    display: inline-block
+}
+.menu a{
+    padding: 45px;
+    color: white;
+    text-decoration: none;
+    display: block
+}
+.menu a:hover{
+    background: #0CAA9D
+}
